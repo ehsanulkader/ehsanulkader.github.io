@@ -10,24 +10,23 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <small>Connect with me:</small>
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the photo
 ---
 
 <small>
-  💻 Software Engineer, Synesis IT PLC <br> 
+  👨‍🏫 Lecturer, BRAC University <br> 
   🎓 Graduated (B.Sc.) from CSE, BUET <br>
   👨‍🎓 Prospective Graduate Student <br>
-  💡 Interested in <b>Intelligent Transportation Systems</b>, <b>Cyber Physical Systems</b>, and <b>Autonomous Vehicles</b>
+  💡 Interested in <b>Systems</b>, <b>Security</b>, <b>Software Engineering</b> and <b>Database</b>
 </small>
+I am Ehsan. I am currently working as a Lecturer in the [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/). I have recently completed my undergraduate degree from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/). My current research interests include Systems, Security, Networking and Databases. I am particularly interested in exploring **Distributed Systems** and **Operating Systems** in depth, with a focus on solving complex problems in these areas. I plan to pursue a PhD to expand my knowledge and contribute to research and innovation in these areas.
 
-I am Ababil (Aa-baa-beel), and I have recently graduated from [CSE, BUET](https://cse.buet.ac.bd/). I am currently as a Software Engineer at [Synesis IT PLC](https://www.synesisit.com.bd/). My research interests are related to **Intelligent Transportation Systems**, **Cyber-Physical Systems**, and **Autonomous Vehicles**. I am aiming to pursue a PhD program in relevant fields to further delve and make a significant contribution in these areas.
+I began my research journey by collaborating on a project that tested the forecasting capabilities of various deep learning models, including CNN, LSTM, GRU, and multivariate CNN, for predicting COVID-19 case trends across three countries. Next, I contributed to developing a deep learning architecture that used sequential 1D, 2D, and 3D feature extractors to capture intra- and inter-channel dependencies in ECG signals. This approach significantly improved the accuracy of cardiovascular disease detection. We also introduced a knowledge distillation framework to transfer knowledge from a high-performing teacher model to a student model with fewer parameters. Papers from both of these projects led to publications in academic journals.
 
-Most of my research is focused on intelligent transportation and relevant systems. Currently, I am involved in a research project supervised by [Golam Md. Muktadir (UC Santa Cruz)](https://scholar.google.com/citations?user=RDa4TOgAAAAJ&hl=en), [Dr. A.B.M. Alim Al Islam (BUET)](https://scholar.google.com/citations?user=K-AIPzQAAAAJ&hl=en) and [Dr. Mahmuda Naznin (BUET)](https://scholar.google.com/citations?user=dJx58AQAAAAJ&hl=en) where we are working on **evaluating generative pedestrian modeling in autonomous vehicle simulations**. We utilize behavior observed in real-world data to prepare metrics for assessing how realistic generative pedestrian models are. Data analysis, visualization, and statistical modeling are the primary tools used in this research.
+My undergraduate thesis was titled **Dependency and Priority Based Multi-Queue IoT Task Scheduling in Heterogeneous Fog Systems** which was supervised by [Dr. Rezwana Reaz](https://scholar.google.com/citations?user=I0k0ReMAAAAJ&hl=en). In this work, we developed a non-preemptive batch task scheduling algorithm that dynamically allocates resources for executing IoT tasks in a fog node. The algorithm takes into account the heterogeneity of fog resources, as well as the priority, deadline constraints, and dependencies between tasks. 
 
-My undergraduate thesis, supervised by [Dr. A.B.M. Alim Al Islam (BUET)](https://scholar.google.com/citations?user=K-AIPzQAAAAJ&hl=en), was on the development of an **intelligent traffic signaling system suited to the non-lane based, heterogeneous traffic** of Dhaka city. In this study we propose a system architecture that detects traffic through object detection ina low resource environment and optimizes the signal cycle accordingly. We also implemented the architecture as a testable physical system using IP Cameras and Raspberry Pi. We have worked on real-time video processing, object detection in low-resource environments, and multi-objective optimization algorithms. We also tested our system at a nearby intersection and evaluated the effectiveness of our proposed architecture. Before our thesis, we had worked on the preparation of a dataset **NHT-1071** based on the traffic scenario in Dhaka city, which was used for training the object detection model.
+In my current role, I teach the courses Data Structures and Algorithms within the Computer Science and Engineering department. I also taught an introductory programming lab focused on Java, where I guided students through the basics of programming.
 
-I am assigned to the Convay team under the Software Development and Implementation department at Synesis IT, where we develop and maintain [Convay](https://www.convay.com), a video conferencing web application that also provides collaborative features. I am currently working on the front end of the application.
-
-I have been involved in leading and organizing different sorts of events in my student life, the most prominent being [BUET CSE Fest 2023](https://buet-cse-fest-2023-main-mauve.vercel.app/). I am a passionate Manchester United fan, and I love to talk sports. I also like listening to music, binge-watching TV shows, and traveling whenever I get the chance.
+Outside of work, I enjoy watching and discussing sports. I am a passionate Liverpool Football Club fan and have been following them for around 15 years. I also love traveling whenever I have the opportunity and have been fortunate enough to visit the Chittagong Hill Tracts, as well as the beautiful regions of Shimla and Manali.

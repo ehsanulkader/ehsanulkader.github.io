@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /resume/
+permalink: /CV/
 title: Resume
 nav: true
 nav_order: 4
-cv_pdf: Azam_Kazi Ababil_resume.pdf
+cv_pdf: Muhammad_Ehsanul_Kader_CV.pdf
 description: >
   You can download my resume in PDF format by clicking the button on the right.
 ---
