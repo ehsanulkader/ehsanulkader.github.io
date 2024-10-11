@@ -23,26 +23,15 @@
     ]
   },
   "work": [
+    
     {
-      "name": "ERA InfoTech Limited",
-      "position": "Project Intern",
-      "startDate": "May 2023",
-      "endDate": "Jun 2023",
-      "location": "Dhaka, Bangladesh",
-      "highlights": [
-        "Worked on an internship project focused on real-life business data analysis through unsupervised clustering by applying natural language processing techniques"
-      ]
-    },
-    {
-      "name": "Synesis IT PLC",
-      "position": "Software Engineer",
-      "startDate": "Jun 2024",
+      "name": "BRAC University",
+      "position": "Full Time Lecturer",
+      "startDate": "July 2024",
       "endDate": "present",
       "location": "Dhaka, Bangladesh",
-      "highlights": [
-        "Contributed to the front-end development of Convay, a video conferencing web application",
-        "Analyzed WebRTC statistics to monitor and optimize the performance of meetings"
-      ]
+      "highlights": ["Courses Teaching: Algorithms(Theory), Data Structures(Theory)",
+                     "Courses Taught: Data Structures(Lab), Programming Language I(Lab)"]
     }
   ],
   "volunteer": [
@@ -54,22 +43,22 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      
     }
   ],
   "education": [
     {
       "institution": "Bangladesh University of Engineering & Technology",
       "location": "Dhaka, Bangladesh",
-      "url": "https://buet.ac.bd/",
-      "area": "CGPA: 3.67/4.00",
+      "url": "https://cse.buet.ac.bd/",
+      "area": "CGPA: 3.79/4.00",
       "studyType": "Bachelor of Science (BSc) in Computer Science & Engineering (CSE)",
       "startDate": "Apr 2019",
       "endDate": "Jul 2024",
-      "score": "3.67/4.00",
+      "score": "3.79/4.00",
       "courses": [
-        "Notable Courses: Machine Learning, Microprocessor, Microcontroller & Embedded Systems, Compiler, Computer Networking, Software Engineering, Computer Architecture, Operating System, Simulation & Modelling, Computer Security, Computer Graphics, Artificial Intelligence",
-        "Undergraduate Thesis: Towards Intelligent Traffic Signaling in Dhaka City Based on Vehicle Detection and Congestion Optimization"
+        "Notable Courses: Operating Systems, Computer Architecture, Networking, Machine Learning, Computer Security, Compiler, Bioinformatics, Database",
+        "Undergraduate Thesis: Dependency and Priority Based Multi-Queue IoT Task Scheduling in Heterogeneous Fog Systems"
       ]
     }
   ],
