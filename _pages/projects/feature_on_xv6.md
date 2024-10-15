@@ -1,6 +1,8 @@
 #### **Feature Implementation on xv6 OS**
 
-`Software Development` `Web Application Development` `Django` `React` `MUI` `PostgreSQL`
-<br><i class="fab fa-github"></i> [Github](https://github.com/fardinanam/SyncInc)
+`C` `Trace` `Lottery Scheduling` `COW`
+<br><i class="fab fa-github"></i> [Github](https://github.com/ehsanulkader/CSE-314-Operating-Systems-Sessional)
 
-A web-based project and task delegation management software designed for organizations. Stack includes PostgreSQL as the database, Django for the backend, ReactJS with Material UI for the frontend, Django REST framework for API development, and Django Channels for real-time notifications.
+- Added new features to xv6, including system calls for trace and sysinfo.
+- Implemented a lottery scheduling algorithm for probabilistic time slice allocation.
+- Enhanced memory management with Copy on Write (COW) and paging.
