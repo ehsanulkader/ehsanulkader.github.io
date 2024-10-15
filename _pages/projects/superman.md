@@ -1,4 +1,4 @@
-#### **SyncInc**
+#### **Superman Adventures**
 
 `Django` `DjangoREST` `ReactJS` `React` `MaterialUI` `PostgreSQL`
 <br><i class="fab fa-github"></i> [Github](https://github.com/fardinanam/SyncInc)
