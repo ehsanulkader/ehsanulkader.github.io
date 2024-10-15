@@ -20,14 +20,14 @@ profiles:
   - align: left
     title: "MD-CardioNet: A Multi-Dimensional Deep Neural Network for Cardiovascular Disease Diagnosis from Electrocardiogram"
     tags: ["Multidimensional CNN", "Knowledge Distillation", "ECG Analysis"]
-    timeline: "2022 - 2023"
+    timeline: "2021 - 2023"
     image: #
     content: research/md_cardionet.md
     image_circular: false # crops the image to make it circular
   - align: left
     title: "Forecasting COVID-19 cases: A comparative analysis between recurrent and convolutional neural networks"
     tags: ["CNN", "RNN", "Time Series analysis"]
-    timeline: "2021 - 2022"
+    timeline: "2020 - 2021"
     image: #
     content: research/forecasting_covid.md
     image_circular: false # crops the image to make it circular
