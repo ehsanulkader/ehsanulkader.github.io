@@ -1,5 +1,5 @@
 ---
-layout: profiles
+layout: research
 permalink: /research/
 title: Research
 description: Descriptions to my past and ongoing research projects.
