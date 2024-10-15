@@ -1,7 +1,7 @@
 #### **SyncInc**
 
 `Django` `DjangoREST` `ReactJS` `React` `MaterialUI` `PostgreSQL`
-<br><i class="fab fa-github"></i> [Github](https://github.com/fardinanam/SyncInc)
+<br><i class="fab fa-github"> <div align="right"></i> [Github](https://github.com/fardinanam/SyncInc)</div>
 
 - Co-developed SyncInc, a web-based project management software, using Django-REST framework, Docker, PostgresDB,
 and ReactJS.
