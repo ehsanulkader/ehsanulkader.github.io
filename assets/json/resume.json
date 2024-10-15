@@ -18,7 +18,7 @@
     "profiles": [
     ]
   },
-  "Research Interests": [
+  "research_interests": [
     {
       "": "Systems, Cloud Computing, Security, Software Engineering, Database" 
     }
@@ -63,13 +63,13 @@
       ]
     }
   ],
-  "awards": [
+  "Honors & Achievements": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Dean's List",
+      "date": "",
+      "awarder": "",
+      "url": "",
+      "summary": "Recipient of Dean's List Scholarship for the year 2020, 2021 for academic excellence."
     }
   ],
   "certificates": [
