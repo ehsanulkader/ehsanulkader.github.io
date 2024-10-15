@@ -16,18 +16,22 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: right
     image: #
-    content: projects/laser-security.md
+    content: projects/music_instruments_classification.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: #
-    content: about_einstein.md
+    content: projects/feature_on_xv6.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: #
-    content: about_einstein.md
+    content: projects/compiler.md
     image_circular: false # crops the image to make it circular
   - align: right
     image: #
-    content: about_einstein.md
+    content: projects/fpl.md
+    image_circular: false # crops the image to make it circular
+  - align: right
+    image: #
+    content: projects/superman.md
     image_circular: false # crops the image to make it circular
 ---
