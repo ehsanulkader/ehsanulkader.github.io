@@ -1,9 +1,9 @@
 #### **Music Instruments Classification**
 
-`Django` `DjangoREST` `ReactJS` `React` `MaterialUI` `PostgreSQL`
-<br><i class="fab fa-github"></i> [Github](https://github.com/fardinanam/SyncInc)
+`Python` `PyTorch` ` Librosa`
+<br><i class="fab fa-github"></i> [Github](https://github.com/ehsanulkader/CSE-472-ML_Project)
 
-- Co-developed SyncInc, a web-based project management software, using Django-REST framework, Docker, PostgresDB,
-and ReactJS.
-- SyncInc enables organizations to efficiently manage and track projects and tasks for enhanced collaboration.
-- Allows admins to add members, create projects, and designate project leaders to assign and review tasks.
+- Developed a system to identify musical instruments in audio recordings.
+- Processed raw audio with Librosa to generate Mel Spectrograms for feature extraction.
+- Used a ResNet-18 architecture with additional layers to classify 20 different instruments.
+
