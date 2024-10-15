@@ -1,6 +1,7 @@
 #### **Superman Adventures**
 
-`C` `Igraphics`<div align="right"><i class="fab fa-github"></i> [Github](https://github.com/ehsanulkader/SupermanAdventures)</div>
+`C` `Igraphics`
+<i class="fab fa-github"></i> [Github](https://github.com/ehsanulkader/SupermanAdventures)
 <br>
 
 - Developed Superman Adventures, a game where players control the character Superman 
