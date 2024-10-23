@@ -637,12 +637,12 @@ jsonresume:
   - work
   - education
   - Honors & Achievements
-  - publications
+  - "Research & Publications"
   - projects
   # - volunteer
-  - awards
-  - certificates
-  - skills
+  # - awards
+  # - certificates
+  # - skills
   # - languages
   # - interests
   # - references
