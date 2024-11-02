@@ -21,6 +21,7 @@ social: true # includes social icons at the bottom of the photo
   👨‍🎓 Prospective Graduate Student <br>
   💡 Interested in <b>Systems</b>, <b>Security</b>, <b>Software Engineering</b> and <b>Database</b>
 </small>
+
 I am Ehsan. I am currently working as a Lecturer in the [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/). I have recently completed my undergraduate degree from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/). My current research interests include Systems, Security, Networking and Databases. I plan to pursue a PhD to expand my knowledge and contribute to research and innovation in these areas.
 
 I began my research journey by collaborating on a project that tested the forecasting capabilities of various deep learning models, including CNN, LSTM, GRU, and multivariate CNN, for predicting number of COVID-19 cases. Next, I contributed to developing a multidimensional deep learning architecture to efficiently detect cardiovascular diseases from ECG signals and a knowledge distillation framework to reduce trainable parameters while maintaining performance. Papers from both of these projects led to publications in academic journals.
