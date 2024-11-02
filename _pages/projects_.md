@@ -24,6 +24,10 @@ profiles:
     image_circular: false # crops the image to make it circular
   - align: right
     image: #
+    content: projects/ns2_project.md
+    image_circular: false # crops the image to make it circular
+  - align: right
+    image: #
     content: projects/compiler.md
     image_circular: false # crops the image to make it circular
   - align: right
