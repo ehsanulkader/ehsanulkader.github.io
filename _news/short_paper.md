@@ -1,7 +1,7 @@
 ---
 layout: post
-date: June 29, 2024
+date: December 16, 2024
 inline: true
 related_posts: false
 ---
-Our work titled **Dependency and Priority Based Multi-Queue IoT Task Scheduling in Heterogeneous Fog Systems** has been accepted as a short paper in the **17th IEEE/ACM International Conference on Utility and Cloud Computing**
+My undergraduate thesis work titled [**Dependency and Priority Based Multi-Queue IoT Task Scheduling in Heterogeneous Fog Systems**](https://doi.org/10.1109/UCC63386.2024.00012) has been published in the **17th IEEE/ACM International Conference on Utility and Cloud Computing**

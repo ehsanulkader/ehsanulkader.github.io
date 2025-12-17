@@ -16,18 +16,20 @@ social: true # includes social icons at the bottom of the photo
 ---
 
 <small>
-  👨‍🏫 Lecturer, BRAC University <br> 
+  👨‍🎓 PhD student, Stony Brook University <br>
+  👨‍🏫 Lecturer, BRAC University (currently on study leave) <br> 
   🎓 Graduated (B.Sc.) from CSE, BUET <br>
-  👨‍🎓 Prospective Graduate Student <br>
-  💡 Interested in <b>Systems</b>, <b>Security</b>, <b>Software Engineering</b> and <b>Database</b>
+  💡 Interested in <b>Systems</b>, <b>Security</b>, <b>Software Engineering</b> and <b>Applied Machine Learning</b>
 </small>
 
-I am Ehsan. I am currently working as a Lecturer in the [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/). I have recently completed my undergraduate degree from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/). My current research interests include Systems, Security, Networking and Databases. I plan to pursue a PhD to expand my knowledge and contribute to research and innovation in these areas.
+I am Ehsan, a PhD student in the Computer Science Department at Stony Brook University. Prior to starting my graduate studies, I worked as a Lecturer in the [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/), from where I am currently on leave. I completed my undergraduate degree in Computer Science and Engineering from [Department of Computer Science and Engineering, at the Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). 
+
+My research interests broadly span Systems, Security, Applied Machine Learning, and I aim to pursue research that contributes to building optimized, secure systems and to develop tools that abstract system complexity to enable efficient resource management.
+
+My undergraduate thesis was titled **Dependency and Priority Based Multi-Queue IoT Task Scheduling in Heterogeneous Fog Systems** which was supervised by [Dr. Rezwana Reaz](https://scholar.google.com/citations?user=I0k0ReMAAAAJ&hl=en). In this work, we developed a non-preemptive dynamic task scheduling algorithm that takes into account the heterogeneity of fog resources, as well as the priority, deadline constraints, and dependencies between tasks.
 
 I began my research journey by collaborating on a project that tested the forecasting capabilities of various deep learning models, including CNN, LSTM, GRU, and multivariate CNN, for predicting number of COVID-19 cases. Next, I contributed to developing a multidimensional deep learning architecture to efficiently detect cardiovascular diseases from ECG signals and a knowledge distillation framework to reduce trainable parameters while maintaining performance. Papers from both of these projects led to publications in academic journals.
 
-My undergraduate thesis was titled **Dependency and Priority Based Multi-Queue IoT Task Scheduling in Heterogeneous Fog Systems** which was supervised by [Dr. Rezwana Reaz](https://scholar.google.com/citations?user=I0k0ReMAAAAJ&hl=en). In this work, we developed a non-preemptive dynamic task scheduling algorithm that takes into account the heterogeneity of fog resources, as well as the priority, deadline constraints, and dependencies between tasks. 
+In my role as a lecturer, I taught the courses Operating Systems, Data Structures and Algorithms within the Computer Science and Engineering department of BRAC University. I also taught an introductory programming lab focused on Java, where I guided students through the basics of programming.
 
-In my current role, I teach the courses Data Structures and Algorithms within the Computer Science and Engineering department of BRAC University. I also taught an introductory programming lab focused on Java, where I guided students through the basics of programming.
-
-Outside of work, I enjoy watching and discussing sports. I am a passionate Liverpool Football Club fan and have been following them since I was a kid. I also love traveling whenever I have the opportunity and have been fortunate enough to visit the Saint Martin island, Chittagong Hill Tracts, as well as the beautiful regions of Shimla and Manali.
+Outside of work, I enjoy travelling and following sports. I have been a Liverpool Football Club fan since childhood. Roger Federer and Lionel Messi are my favorite athletes.
