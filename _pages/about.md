@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the photo
   💡 Interested in <b>Systems</b>, <b>Security</b>, <b>Software Engineering</b> and <b>Applied Machine Learning</b>
 </small>
 
-I am Ehsan, a PhD student in the Computer Science Department at Stony Brook University. Prior to starting my graduate studies, I worked as a Lecturer in the [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/), from where I am currently on leave. I completed my undergraduate degree in Computer Science and Engineering from [Department of Computer Science and Engineering, at the Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). 
+I am Ehsan, a PhD student in the Computer Science Department at Stony Brook University. Prior to starting my graduate studies, I worked as a Lecturer in the [Department of Computer Science and Engineering, BRAC University](https://cse.sds.bracu.ac.bd/), from where I am currently on leave. I completed my undergraduate degree in Computer Science and Engineering from [Bangladesh University of Engineering and Technology (BUET)](https://cse.buet.ac.bd/). 
 
 My research interests broadly span Systems, Security, Applied Machine Learning, and I aim to pursue research that contributes to building optimized, secure systems and to develop tools that abstract system complexity to enable efficient resource management.
 
