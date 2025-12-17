@@ -13,7 +13,7 @@ profiles:
   - align: left
     title: "Dependency, Deadline and Priority Aware Multi-Queue Dynamic Task Scheduling Using Heterogeneous Resources in Fog Environment"
     tags: ["Task Scheduling", "Fog Computing"]
-    timeline: "Jun 2023 - Present"
+    timeline: "Jun 2023 - December 2024"
     image: #
     content: research/task_scheduling.md
     image_circular: false # crops the image to make it circular
